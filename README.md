@@ -1,5 +1,5 @@
 # Machine-Learning-Algorithms---Hands-on
-This repository contains Machine learning algorithms hands on Program along with Datasets
+This repository contains Machine learning algorithm hands-on Programs along with Visualization on various Datasets
 
 Algorithms:
   SVM - Support Vector Machine,
@@ -12,5 +12,5 @@ Algorithms:
 Dataset Used (csv files):
   Social_Network_Ads ,
   Mall_Customers ,
-  titanic ,
+  Titanic ,
   winequality-white . 
